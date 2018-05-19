@@ -1,0 +1,154 @@
+
+
+.nav {
+  background-color: #11918B;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+
+}
+
+.nav ul {
+  text-decoration: none;
+  list-style: none;
+  float: right;
+  font-size: 15px;
+
+}
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+}
+
+span {
+  color: yellow;
+}
+
+.nav li {
+  display: inline-block;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 5px 15px;
+  padding-right: 30px;
+}
+
+.para h1 {
+  letter-spacing: 20px;
+  text-align: center;
+  font-size: 95px;
+  line-height: 10px;
+  font-family: 'oswald';
+}
+
+.para h3 {
+  text-align: center;
+  font-size: 45px;
+  padding-top: 150px;
+  font-family: 'Open Sans Condensed';
+
+}
+
+
+.para {
+  background-image: url(../img/para.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin-top: 0;
+  padding: 25px;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.para Button {
+  margin-bottom: 400px;
+  background-color: yellow;
+  border: 5px;
+  border-color: black;
+  padding: 10px;
+  display: block;
+  margin: auto auto 400px auto;
+
+}
+
+.line {
+  width: 50%;
+  display: block;
+  align-items: center;
+  margin: auto;
+}
+
+.about {
+  text-align: center;
+  padding: 20px 180px;
+  font-size: 15px;
+  font-family: 'oswald';
+}
+
+.about hr {
+  width: 10%;
+  border-style: dashed gray;
+}
+
+.about h1 {
+  color: #11918B;
+  font-size: 45px;
+}
+
+.about p {
+  font-size: 20px;
+}
+
+.title img {
+  width: 20px;
+  height: 20px;
+}
+
+.title1 img {
+  width: 20px;
+  height: 20px;
+}
+
+.title {
+  padding: 25px;
+  display: inline-block;
+  border-left: 1px solid black;
+  height: 100px;
+  text-align: center;
+}
+
+.title1 {
+  padding: 25px;
+  display: inline-block;
+  text-align: center;
+}
+
+.services {
+  background-color: #E4E8D1;
+  width: 50%;
+  height: 500px;
+  padding-left: 45px;
+  padding-top: 25px;
+  display: inline-block;
+}
+
+.service {
+  display:inline-block;
+  padding-left: 65px;
+  text-align: center;
+}
+
+.service img {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+}
+
+
+section.img {
+  display: inline-block;
+}
